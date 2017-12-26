@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.iml
 .gradle
 /local.properties
@@ -7,6 +8,8 @@
 /build
 /captures
 
+=======
+>>>>>>> 651b23bd8a3591e8636477762d017ce15c9f4013
 # Built application files
 *.apk
 *.ap_
@@ -41,7 +44,11 @@ proguard/
 # Android Studio captures folder
 captures/
 
+<<<<<<< HEAD
 # IntelliJ
+=======
+# Intellij
+>>>>>>> 651b23bd8a3591e8636477762d017ce15c9f4013
 *.iml
 .idea/workspace.xml
 .idea/tasks.xml
@@ -50,8 +57,12 @@ captures/
 .idea/libraries
 
 # Keystore files
+<<<<<<< HEAD
 # Uncomment the following line if you do not want to check your keystore files in.
 #*.jks
+=======
+*.jks
+>>>>>>> 651b23bd8a3591e8636477762d017ce15c9f4013
 
 # External native build folder generated in Android Studio 2.2 and later
 .externalNativeBuild
@@ -62,4 +73,8 @@ google-services.json
 # Freeline
 freeline.py
 freeline/
+<<<<<<< HEAD
 freeline_project_description.json
+=======
+freeline_project_description.json
+>>>>>>> 651b23bd8a3591e8636477762d017ce15c9f4013
